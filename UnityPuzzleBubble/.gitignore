@@ -58,11 +58,3 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-
-UnityPuzzleBubble/UnityPuzzleBubble_Data/
-
-UnityPuzzleBubble/MonoBleedingEdge/*
-
-*.exe
-
-*.dll
